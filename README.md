@@ -2,7 +2,7 @@
 
 Estas son las visualizaciones para la clase
 <iframe src="https://uploads.knightlab.com/storymapjs/249c09cf78a96eb6f11318add5ae267f/la-ruta-de-mi-vida/index.html" frameborder="0" width="100%" height="800"></iframe>
-
+<iframe id="datawrapper-chart-jul1m" src="//datawrapper.dwcdn.net/jul1m/1/" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" oallowfullscreen="oallowfullscreen" msallowfullscreen="msallowfullscreen" style="width: 0; min-width: 100% !important;" height="400"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["jul1m"]={},window.datawrapper["jul1m"].embedDeltas={"100":525,"200":450,"300":425,"400":400,"500":400,"600":400,"700":375,"800":375,"900":375,"1000":375},window.datawrapper["jul1m"].iframe=document.getElementById("datawrapper-chart-jul1m"),window.datawrapper["jul1m"].iframe.style.height=window.datawrapper["jul1m"].embedDeltas[Math.min(1e3,Math.max(100*Math.floor(window.datawrapper["jul1m"].iframe.offsetWidth/100),100))]+"px",window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("jul1m"==b)window.datawrapper["jul1m"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script>
 
 [editor on GitHub](https://github.com/Esperanzamedina/Mireportaje/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

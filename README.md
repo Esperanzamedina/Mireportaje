@@ -2,6 +2,8 @@
 
 Estas son las visualizaciones para la clase [editor on GitHub](https://github.com/Esperanzamedina/Mireportaje/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=168GqMIpMpC5fqO8-DNNEo7F-2L7jcfaUWne719sM_lM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
@@ -10,8 +12,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=168GqMIpMpC5fqO8-DNNEo7F-2L7jcfaUWne719sM_lM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 # Header 1
 ## Header 2

@@ -16,7 +16,7 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-<iframe src="https://uploads.knightlab.com/storymapjs/249c09cf78a96eb6f11318add5ae267f/la-ruta-de-mi-vida/index.html" frameborder="0" width="100%" height="800"></iframe>
+
 - Bulleted
 - List
 
@@ -40,3 +40,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 https://public.tableau.com/profile/nohora.medina#!/vizhome/ejercicio1_25/Ejercicio?publish=yes
+<iframe src="https://uploads.knightlab.com/storymapjs/249c09cf78a96eb6f11318add5ae267f/la-ruta-de-mi-vida/index.html" frameborder="0" width="100%" height="800"></iframe>

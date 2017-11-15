@@ -1,6 +1,10 @@
 ## Visualizaciones Clase de Hipertexto y Lenguaje Digital
 
-Estas son las visualizaciones para la clase [editor on GitHub](https://github.com/Esperanzamedina/Mireportaje/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Estas son las visualizaciones para la clase
+<iframe src="https://uploads.knightlab.com/storymapjs/249c09cf78a96eb6f11318add5ae267f/la-ruta-de-mi-vida/index.html" frameborder="0" width="100%" height="800"></iframe>
+
+
+[editor on GitHub](https://github.com/Esperanzamedina/Mireportaje/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=168GqMIpMpC5fqO8-DNNEo7F-2L7jcfaUWne719sM_lM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 

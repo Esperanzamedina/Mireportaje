@@ -1,6 +1,11 @@
 ## Visualizaciones Clase de Hipertexto y Lenguaje Digital
-
+Gastos de Campañs electorales
 <script id="infogram_0_5441ea11-face-45bf-9889-5e311c4ad231" title="Gastos campañas presidenciales 2014" src="https://e.infogram.com/js/dist/embed.js?YAq" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/5441ea11-face-45bf-9889-5e311c4ad231" style="color:#989898!important;text-decoration:none!important;" target="_blank">Gastos campañas presidenciales 2014</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+
+Dueños de los medios
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThTnjytEmjrtRT6l-_9YmSkblLg_oKhJwMzWNsuxQUj9nyAN2GrTq5Kb_W5c6Vsy5xPMwaTGC7sUXj/pubchart?oid=1971967220&amp;format=interactive"></iframe>
+
+
 
 Estas son las visualizaciones para la clase
 <iframe src="https://uploads.knightlab.com/storymapjs/249c09cf78a96eb6f11318add5ae267f/la-ruta-de-mi-vida/index.html" frameborder="0" width="100%" height="800"></iframe>
@@ -12,31 +17,10 @@ Estas son las visualizaciones para la clase
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Esperanzamedina/Mireportaje/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 

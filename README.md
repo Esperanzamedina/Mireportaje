@@ -5,6 +5,8 @@ Gastos de Campañs electorales
 Dueños de los medios
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThTnjytEmjrtRT6l-_9YmSkblLg_oKhJwMzWNsuxQUj9nyAN2GrTq5Kb_W5c6Vsy5xPMwaTGC7sUXj/pubchart?oid=1971967220&amp;format=interactive"></iframe>
 
+Mapa
+<iframe src="https://www.google.com/maps/d/embed?mid=1Nt2QtMrFx9cpjnunWrvR9BbWkEZngZOT" width="640" height="480"></iframe>
 
 
 Estas son las visualizaciones para la clase

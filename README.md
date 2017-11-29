@@ -8,6 +8,8 @@ Dueños de los medios
 Mapa
 <iframe src="https://www.google.com/maps/d/embed?mid=1Nt2QtMrFx9cpjnunWrvR9BbWkEZngZOT" width="640" height="480"></iframe>
 
+Humberto de la calle y Gustavo Petro
+script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1225_RC03/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"Humberto de la calle","geo":"","time":"today 12-m"},{"keyword":"gustavo petro","geo":"","time":"today 12-m"}],"category":0,"property":""}, {"exploreQuery":"q=Humberto%20de%20la%20calle,gustavo%20petro&date=today 12-m,today 12-m","guestPath":"https://trends.google.es:443/trends/embed/"}); </script> 
 
 Estas son las visualizaciones para la clase
 <iframe src="https://uploads.knightlab.com/storymapjs/249c09cf78a96eb6f11318add5ae267f/la-ruta-de-mi-vida/index.html" frameborder="0" width="100%" height="800"></iframe>

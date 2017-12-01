@@ -1,6 +1,5 @@
 ## Visualizaciones Clase de Hipertexto y Lenguaje Digital
 Gastos de Campañs electorales
-<script id="infogram_0_5441ea11-face-45bf-9889-5e311c4ad231" title="Gastos campañas presidenciales 2014" src="https://e.infogram.com/js/dist/embed.js?YAq" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/5441ea11-face-45bf-9889-5e311c4ad231" style="color:#989898!important;text-decoration:none!important;" target="_blank">Gastos campañas presidenciales 2014</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
 Dueños de los medios
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThTnjytEmjrtRT6l-_9YmSkblLg_oKhJwMzWNsuxQUj9nyAN2GrTq5Kb_W5c6Vsy5xPMwaTGC7sUXj/pubchart?oid=1971967220&amp;format=interactive"></iframe>

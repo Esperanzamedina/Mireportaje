@@ -1,5 +1,5 @@
 ## Visualizaciones Clase de Hipertexto y Lenguaje Digital
-Gastos de Campañs electorales
+
 
 Dueños de los medios
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThTnjytEmjrtRT6l-_9YmSkblLg_oKhJwMzWNsuxQUj9nyAN2GrTq5Kb_W5c6Vsy5xPMwaTGC7sUXj/pubchart?oid=1971967220&amp;format=interactive"></iframe>
@@ -8,7 +8,11 @@ Mapa
 <iframe src="https://www.google.com/maps/d/embed?mid=1Nt2QtMrFx9cpjnunWrvR9BbWkEZngZOT" width="640" height="480"></iframe>
 
 Humberto de la calle y Gustavo Petro
-script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1225_RC03/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"Humberto de la calle","geo":"","time":"today 12-m"},{"keyword":"gustavo petro","geo":"","time":"today 12-m"}],"category":0,"property":""}, {"exploreQuery":"q=Humberto%20de%20la%20calle,gustavo%20petro&date=today 12-m,today 12-m","guestPath":"https://trends.google.es:443/trends/embed/"}); </script> 
+script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1225_RC03/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"Humberto de la calle","geo":"","time":"today 12-m"},{"keyword":"gustavo petro","geo":"","time":"today 12-m"}],"category":0,"property":""}, {"exploreQuery":"q=Humberto%20de%20la%20calle,gustavo%20petro&date=today 12-m,today 12-m","guestPath":"https://trends.google.es:443/trends/embed/"}
+
+<script id="infogram_0_5441ea11-face-45bf-9889-5e311c4ad231" title="Gastos campañas presidenciales 2014" src="https://e.infogram.com/js/dist/embed.js?YAq" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/5441ea11-face-45bf-9889-5e311c4ad231" style="color:#989898!important;text-decoration:none!important;" target="_blank">Gastos campañas presidenciales 2014</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+
+
 
 
 Mapa paradise paper
